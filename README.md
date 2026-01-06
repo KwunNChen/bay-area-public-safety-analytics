@@ -14,7 +14,6 @@ Rather than attempting to predict individual crimes or locations, this analysis 
 - **Time span:** Approximately 180 days (April–October 2022)
 
 ### Important Notes on the Data
-- Calls for service **do not necessarily represent confirmed crimes**.
 - One incident may generate multiple calls.
 - Some records contain incomplete or defaulted timestamps (e.g., `12:00 AM`).
 - Locations are reported at the **block level** or may be missing.
