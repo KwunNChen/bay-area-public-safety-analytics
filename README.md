@@ -13,3 +13,23 @@ This project emphasizes:
 - Clearly stating assumptions and limitations
 
 ## Structure
+urban-public-safety-analytics/
+├── berkeley/
+├── san_francisco/
+├── oakland/
+├── san_jose/
+└── README.md
+
+Each city folder contains:
+- One or more Jupyter notebooks with analysis
+- A README describing the dataset, question, and findings for that city
+
+## Tools
+- Python
+- datascience (Berkeley Data 8)
+- NumPy
+- Jupyter Notebooks
+
+## Disclaimer
+All datasets used in this repository are publicly available and aggregated. This project is for educational and analytical purposes only and does not make causal claims or policy recommendations.
+
