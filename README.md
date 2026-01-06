@@ -44,14 +44,6 @@ Spatial analysis avoids fine-grained mapping due to a high proportion of missing
 ### 3. Short-Term Demand Forecasting
 A simple **autoregressive linear model** was used to assess short-term predictability:
 
-\[
-\text{Calls}_{t} = \alpha + \beta \cdot \text{Calls}_{t-1}
-\]
-
-Where:
-- \( \text{Calls}_{t-1} \) = total calls in the previous week
-- \( \text{Calls}_{t} \) = total calls in the current week
-
 #### Computed Statistics
 - **Correlation coefficient (r):** Measures week-to-week persistence
 - **Slope (β):** Indicates how strongly demand carries over from one week to the next
