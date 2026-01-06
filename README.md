@@ -14,11 +14,17 @@ This project emphasizes:
 
 ## Structure
 urban-public-safety-analytics/
+
 ├── berkeley/
+
 ├── san_francisco/
+
 ├── oakland/
+
 ├── san_jose/
+
 └── README.md
+
 
 Each city folder contains:
 - One or more Jupyter notebooks with analysis
