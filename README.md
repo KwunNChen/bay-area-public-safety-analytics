@@ -1,4 +1,4 @@
-# Urban Public Safety Analytics
+# Bay Area Public Safety Analytics
 
 This repository contains data analyses of public safety datasets from multiple California cities, including Berkeley, San Francisco, Oakland, and San Jose. The goal of this project is to explore trends in public safety–related data using transparent, reproducible data science methods.
 
@@ -13,7 +13,7 @@ This project emphasizes:
 - Clearly stating assumptions and limitations
 
 ## Structure
-urban-public-safety-analytics/
+bay-area-public-safety-analytics/
 
 ├── berkeley/
 
@@ -32,7 +32,7 @@ Each city folder contains:
 
 ## Tools
 - Python
-- datascience (Berkeley Data 8)
+- datascience (Berkeley Data 8 module)
 - NumPy
 - Jupyter Notebooks
 
